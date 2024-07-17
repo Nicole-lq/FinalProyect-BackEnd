@@ -28,8 +28,6 @@ Respositorio del desafío final de la ruta "Desarrollador BackEnd" de Alura Lata
 
 * [Características principales](#Características-principales)
 
-* [Acceso al proyecto](#acceso-proyecto)
-
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
   
 * [Medalla](#Medalla)
@@ -41,6 +39,10 @@ Respositorio del desafío final de la ruta "Desarrollador BackEnd" de Alura Lata
 ## Descripción del proyecto
 
 Este challenge implica el uso de Spring Boot, MySQL y Java 17 para el desarrollo de una API REST que permita a los usuarios gestionar tópicos en un foro. La aplicación incluye funcionalidades para crear, mostrar, actualizar y eliminar tópicos, implementando prácticas de seguridad con JSON Web Tokens (JWT) para la autenticación. Además, se utiliza Insomnia para probar los endpoints y MySQL para la persistencia de datos. 
+
+<p align="center">
+<img src="imagenes/challenge.png">
+</p>
 
 
 ## Componentes principales
@@ -80,16 +82,8 @@ Tiene mucho por mejorar, pero pese a que el programa ORACLE ONE termine, lo segu
 * Integración de seguridad mediante JSON Web Tokens (JWT) para autenticación.
 * Adherencia a las mejores prácticas del modelo REST para la estructura de las rutas de la API.
 * Interfaz de usuario no gráfica, enfocada completamente en el backend.
-* Desarrollo organizado y gestionado mediante Trello para la gestión de tareas y seguimiento del progreso del proyecto.
+* Desarrollo organizado y gestionado mediante Trello para la gestión de tareas y seguimiento del progreso del proyecto.`
 
-
-## Acceso al proyecto
-
-Puedes clonar este repositorio usando el siguiente comando:
-
-```sh
-git clone https://github.com/Nicole-lq/Challenge_Final_NLQ.git
-```
 
 ## Tecnologías utilizadas
 
@@ -105,7 +99,7 @@ git clone https://github.com/Nicole-lq/Challenge_Final_NLQ.git
 
 ## Medalla
 <p align="center">
-<img src="imagenes/Insignia.png" width="300">
+<img src="imagenes/Medalla.png" width="300">
 </p>
 
 
