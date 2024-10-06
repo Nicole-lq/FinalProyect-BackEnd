@@ -2,9 +2,9 @@
   <img src="imagenes/logos.png" width="300">
 </p>
 
-# Challenge_Final_NLQ
+# Proyecto Final
 
-Respositorio del desafío final de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
+Respositorio del proyecto final de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
 
 
 ## Insignias
@@ -16,7 +16,7 @@ Respositorio del desafío final de la ruta "Desarrollador BackEnd" de Alura Lata
 
 ## Índice
 
-* [Resumen de Challenge](#Resumen-del-challenge)
+* [Proyecto Final](#Proyecto-final)
 
 * [Insignias](#insignias)
 
