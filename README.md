@@ -2,108 +2,99 @@
   <img src="imagenes/logos.png" width="300">
 </p>
 
-# Proyecto Final
+# Final Project
 
-Respositorio del proyecto final de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
+Repository for the final project of the "BackEnd Developer" track from Alura Latam and ORACLE ONE.
 
-
-## Insignias
+## Badges
 
 ![GitHub License](https://img.shields.io/github/license/Nicole-lq/Challenge_literatura_NLQ)
 ![Maven Central Version](https://img.shields.io/maven-central/v/org.apache.maven.plugins/maven-compiler-plugin)
 ![GitHub Release](https://img.shields.io/github/v/release/Nicole-lq/Challenge_literatura_NLQ?filter=v0.1.0-beta&display_name=tag)
 
+## Table of Contents
 
-## Índice
+* [Final Project](#Final-Project)
 
-* [Proyecto Final](#Proyecto-final)
+* [Badges](#Badges)
 
-* [Insignias](#insignias)
+* [Table of Contents](#Table-of-Contents)
 
-* [Índice](#índice)
+* [Project Description](#Project-Description)
 
-* [Descripción del proyecto](#Descripción-del-proyecto)
+* [Project Status](#Project-Status)
 
-* [Estado del proyecto](#Estado-del-proyecto)
+* [Main Features](#Main-Features)
 
-* [Características principales](#Características-principales)
-
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Technologies Used](#Technologies-Used)
   
-* [Medalla](#Medalla)
+* [Medal](#Medal)
 
-* [Desarrollador](#Desarrollador)
+* [Developer](#Developer)
 
+## Project Description
 
-
-## Descripción del proyecto
-
-Este challenge implica el uso de Spring Boot, MySQL y Java 17 para el desarrollo de una API REST que permita a los usuarios gestionar tópicos en un foro. La aplicación incluye funcionalidades para crear, mostrar, actualizar y eliminar tópicos, implementando prácticas de seguridad con JSON Web Tokens (JWT) para la autenticación. Además, se utiliza Insomnia para probar los endpoints y MySQL para la persistencia de datos. 
+This challenge involves using Spring Boot, MySQL, and Java 17 to develop a REST API that allows users to manage topics in a forum. The application includes functionalities for creating, displaying, updating, and deleting topics, implementing security practices with JSON Web Tokens (JWT) for authentication. Additionally, Insomnia is used to test the endpoints and MySQL for data persistence.
 
 <p align="center">
 <img src="imagenes/challenge.png">
 </p>
 
+## Main Components
 
-## Componentes principales
+* JPA Entities
+* Repositories
+* Services
+* JPA Configuration
+* Main Application
 
-* Entidades de JPA
-* Repositorios
-* Servicios
-* Configuración de JPA
-* Aplicación Principal
+## Work Methodology
 
-## Modalidad de trabajo
+The work methodology followed an agile development system using the Trello tool, considering the following stages:
 
-La modadlidad de trabajo se dió bajo el sistema ágil de desarrollo, por medio de la herramienta Trello, considerando las  siguientes etapas:
+* "Ready to Start"
+* "In Development"
+* "Paused"
+* "Completed"
 
-* "Listos para iniciar"
-* "En Desarrollo"
-* "Pausado"
-* "Concluido"
-
-La interfaz de usuario se puede apreciar a continuación:
+The user interface can be seen below:
 
 [<img src ="imagenes/Trello.png">](https://trello.com/b/9DeAlIsq/foro-hub-challenge-back-end)
 
+## Project Status
 
-## Estado del proyecto
+There is much room for improvement, but despite the conclusion of the ORACLE ONE program, I will continue to enhance it in order to achieve an optimal version.
 
-Tiene mucho por mejorar, pero pese a que el programa ORACLE ONE termine, lo seguiré complementando a modo de obtener una versión óptima.
+### Main Features
 
-### Características principales
+* Implementation of a REST API with Spring Boot.
+* Use of MySQL for data persistence.
+* Developed in Java 17 with IntelliJ IDEA support.
+* Utilization of Insomnia for API testing.
+* Full functionalities for managing topics: create, list, show specific, update, and delete.
+* Implementation of validations according to business rules.
+* Integration of security through JSON Web Tokens (JWT) for authentication.
+* Adherence to best practices of the REST model for the structure of the API routes.
+* Non-graphical user interface, completely focused on the backend.
+* Organized development managed through Trello for task management and project progress tracking.
 
-* Implementación de una API REST con Spring Boot.
-* Uso de MySQL para la persistencia de datos.
-* Desarrollado en Java 17 con soporte de IntelliJ IDEA.
-* Utilización de Insomnia para realizar pruebas de la API.
-* Funcionalidades completas para gestionar tópicos: crear, listar, mostrar específico, actualizar y eliminar.
-* Implementación de validaciones según reglas de negocio.
-* Integración de seguridad mediante JSON Web Tokens (JWT) para autenticación.
-* Adherencia a las mejores prácticas del modelo REST para la estructura de las rutas de la API.
-* Interfaz de usuario no gráfica, enfocada completamente en el backend.
-* Desarrollo organizado y gestionado mediante Trello para la gestión de tareas y seguimiento del progreso del proyecto.`
-
-
-## Tecnologías utilizadas
+## Technologies Used
 
 * Spring Boot
 * MySQL
 * Java 17
 * Insomnia
-* API REST
+* REST API
 * JSON Web Tokens (JWT)
-* Gestión de tópicos (CRUD)
-* Seguridad y autenticación
+* Topic Management (CRUD)
+* Security and Authentication
 
-
-## Medalla
+## Medal
 <p align="center">
 <img src="imagenes/Medalla.png" width="300">
 </p>
 
-
-## Desarrollador
+## Developer
 
 |[<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4"><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 |---|
